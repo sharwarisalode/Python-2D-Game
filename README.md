@@ -2,5 +2,9 @@
 OUTPUT
 
 
-https://github.com/sharwarisalode/Python-2D-Game/assets/140893090/680fd4f1-cc1c-44ff-a6c7-a39aa8e94975
+
+https://github.com/sharwarisalode/Python-2D-Game/assets/140893090/a3cc0db5-3271-4981-9144-807b2a5042c5
+
+
+
 
